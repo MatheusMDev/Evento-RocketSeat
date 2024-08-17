@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "RocketseatAuctionAPI.Controllers.AuctionController",
+    "Method": "GetCurrentAuction",
+    "RelativePath": "Auction",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RocketseatAuctionAPI.Controllers.AuctionController",
+    "Method": "Tests",
+    "RelativePath": "Auction/test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

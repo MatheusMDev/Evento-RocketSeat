@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "lkBBlnI2xuLm+URZwz48Rkq0zPzAEK/uJiL1cck3zHKcL7hQE8rVK4Oi8P7uPltZFFTKyVkHWQ4qwEeOu1lZJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Miranda\\Documents\\Projetos\\RocketSeat\\C#\\RocketseatAuction\\src\\RocketseatAuctionAPI\\RocketseatAuctionAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miranda\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Miranda\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Miranda\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Miranda\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Miranda\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Miranda\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
